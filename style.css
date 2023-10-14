@@ -1,0 +1,38 @@
+.heading{
+    width: 100%;
+    font-size: 30px;
+    margin: 0;
+}
+.note{
+    font-size: 20px;
+    color: black;
+}
+.dimge{
+    width: 200px!important;
+    height: 200px!important;
+    border-radius: 100%;
+}
+#div_speed{
+    float: left;
+    
+}
+#speed{
+    font-size: 25px!important;
+}
+#volume{
+    font-size: 25px!important;
+}
+#div_volume{
+    float: right;
+}
+.pbtn{
+    font-size: 25px;
+    margin: 5px;
+}
+canvas{
+    border-color: black;
+    border-radius: 4px;
+    border-style: ridge;
+    border-width: 5px;
+    margin-top: 50px;
+}
